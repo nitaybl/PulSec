@@ -1,6 +1,5 @@
 -- Master Loader
 local scripts = {
-    [8657806289] = "https://ra.githubusercontent.com/nitaybl/PulSec/refs/heads/main/dummiesvsnoobs.lua",
     [18687417158] = "https://raw.githubusercontent.com/nitaybl/Thisrepoisdefinetleynotgonnabeleaked/pulsesakenv2.lua",
     [13559635034] = "https://raw.githubusercontent.com/nitaybl/PulSec/refs/heads/main/combatinitiation.lua"
 }
